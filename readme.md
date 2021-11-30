@@ -21,7 +21,7 @@
 
 #### Prefix de table 
 * abdixeed_
-* 
+
 #### nom de domaine
 * http://localhost:8888/ab-dixeed
 
@@ -37,7 +37,7 @@
 |  Plugins               |Activer / Désactive                                                 |
 |----------------|-------------------------------|
 |WooCommerce|`Activer`|
-|WooCommerce Payments          |`"Désactive`|
+|WooCommerce Payments          |`Désactive`|
 |WooCommerce Shipping & Tax         |`Désactive`|
 |Message sur le dashboard client         |`Activer`|
 
@@ -64,4 +64,3 @@
 *   Créer une page avec un formulaire permettant d’ajouter des informations à l'utilisateur courant.  
  -- Le formulaire doit contenir deux champs : un radio button “Aimez-vous l’ananas ? **oui** ou **non**”et un textarea “Pourquoi aimez- vous l’ananas ou non ?”
 *   Ajouter sous le texte de description des produits (page produit) un bouton affichant, au clic, votre adresse IP en effectuant un call Ajax (utiliser l’API Ipfy)
-# Test-Dixeed
